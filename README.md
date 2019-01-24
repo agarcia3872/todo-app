@@ -10,9 +10,10 @@ Features
    * Add an API ( Google calendar or Google maps )
 
 Technologies
-
-    * C#
-    * HTML / CSS
-    * Bootstrap
-    * MySQL
-    * API
+   
+   * C#
+   * HTML / CSS
+   * Bootstrap
+   * MySQL
+   * API
+    
